@@ -16,6 +16,16 @@
       label: "Daddy",
       wavFile: "daddy"
     },
+    69: {
+      letter: "e",
+      label: "Errrrr",
+      wavFile: "err"
+    },
+    70: {
+      letter: "f",
+      label: "Fart",
+      wavFile: "fart"
+    },
     78: {
       letter: "n",
       label: "And",
@@ -73,8 +83,8 @@
     },
     67: {
       letter:"c",
-      label: "Coco",
-      wavFile: "coco"
+      label: "Chicken",
+      wavFile: "chicken"
     },
     87: {
       letter:"w",
