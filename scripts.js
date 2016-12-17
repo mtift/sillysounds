@@ -63,7 +63,7 @@
     },
     88: {
       letter:"x",
-      label: "Silly Sound 1",
+      label: "So Silly",
       wavFile: "silly1"
     },
     89: {
