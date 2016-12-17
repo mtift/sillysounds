@@ -46,11 +46,6 @@
       label: "Is",
       wavFile: "is"
     },
-    77: {
-      letter:"m",
-      label: "Millie",
-      wavFile: "millie"
-    },
     84: {
       letter:"t",
       label: "Mommy",
