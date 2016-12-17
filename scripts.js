@@ -26,6 +26,16 @@
       label: "Fart",
       wavFile: "fart"
     },
+    76: {
+      letter:"l",
+      label: "Laugh",
+      wavFile: "laugh"
+    },
+    77: {
+      letter:"m",
+      label: "Ahem",
+      wavFile: "ahem"
+    },
     78: {
       letter: "n",
       label: "And",
@@ -61,11 +71,6 @@
       label: "Mommy",
       wavFile: "mommy"
     },
-    76: {
-      letter:"l",
-      label: "Laugh",
-      wavFile: "laugh"
-    },
     72: {
       letter:"h",
       label: "Has",
@@ -90,6 +95,11 @@
       letter:"w",
       label: "Woohoo!",
       wavFile: "woohoo"
+    },
+    90: {
+      letter:"z",
+      label: "NO!",
+      wavFile: "no"
     }
   };
 
